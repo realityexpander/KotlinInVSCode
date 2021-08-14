@@ -5,7 +5,7 @@ package quick.start
 
 class App {
     val greeting: String
-        get() = "Hello world."
+        get() = "Hello world"
 }
 
 fun main(args: Array<String>) {
